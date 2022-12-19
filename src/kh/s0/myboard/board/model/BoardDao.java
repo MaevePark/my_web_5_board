@@ -1,5 +1,8 @@
 package kh.s0.myboard.board.model;
 
+import java.io.BufferedReader;
+import java.io.Reader;
+import java.sql.Clob;
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
